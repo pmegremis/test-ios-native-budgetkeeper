@@ -9,10 +9,10 @@ The test plan is a JSON file with the .xctestplan extension that you add to your
 
 
 # CI 
-![Screenshot](ci_run.png)
+![Screenshot](bitrise_ci_run.png)
 
-# Test Reports 
-![Screenshot](test_reports.png)
+# Unit Test Reports 
+![Screenshot](unit_test_reports.png)
 
-# UI Test Reports 
-![Screenshot](UI_test_reports.png)
+# Functional Test Reports 
+![Screenshot](func_test_reports.png)
